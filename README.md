@@ -1,6 +1,5 @@
 # Projeto de automação de cadastro
-
-## O projeto tem como objetivo automatizar um cenário de cadastro feito com sucesso.
+O projeto tem como objetivo automatizar um cenário de cadastro feito com sucesso.
 
 ## Tecnologias:
 
